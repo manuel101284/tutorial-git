@@ -7,3 +7,5 @@ Es un tipo curioso.
 Esta es su historia.
 
 Gusta del cine, las películas y los libros.
+
+Siempre dispuesto a aprender.
