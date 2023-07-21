@@ -5,3 +5,5 @@ Don Ricardo es viejo y es de Bogotá, Colombia.
 Es un tipo curioso.
 
 Esta es su historia.
+
+Gusta del cine, las películas y los libros.
