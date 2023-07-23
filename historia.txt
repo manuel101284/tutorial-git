@@ -6,6 +6,6 @@ Es un tipo curioso.
 
 Esta es su historia.
 
-Gusta del cine, las películas y los libros.
+Gusta del cine, las películas y los libros, ama el fútbol.
 
 Siempre dispuesto a aprender.
