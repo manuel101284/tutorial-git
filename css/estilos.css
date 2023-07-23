@@ -9,3 +9,16 @@ body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+#container{
+    width: 75%;
+    padding: 1em;
+    text-align: left;
+    background-color: #DDD;
+    border: 2px solid #999;
+    margin: 0 auto;
+}
+
+#container h1{
+    font-size: 24px;
+}
